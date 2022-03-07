@@ -1,6 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shin%20Eunji&fontSize=70)
+<p align="center">
+  <h3 align="center">⌨️ Hello!</h3>
+</p>
 
-### ⚒️Developer Skills⚒️
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F787&lines=Wellcome+To+My+Github;Hello+World%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+</p>
+
+
+### ⚒️ Developer Skills ⚒️
 ---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,6 +32,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Language
+### ⚡ Language ⚡
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-eunji)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-eunji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
