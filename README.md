@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F787&lines=Welcome+To+My+Github;Hello+World%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F787&lines=Welcome+To+My+Github.;I+am+a+front-end+developer.%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 
 ### ⚒️ Developer Skills ⚒️
