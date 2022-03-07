@@ -27,8 +27,3 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚡ Language ⚡
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-eunji)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-eunji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
