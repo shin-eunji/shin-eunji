@@ -2,9 +2,7 @@
   <h3 align="center">⌨️ Hello!</h3>
 </p>
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F787&lines=Wellcome+To+My+Github;Hello+World%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
-</p>
 
 
 ### ⚒️ Developer Skills ⚒️
