@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Front-End developer 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>Front-End developer</b>🚀<br/>
   Based on a professional understanding of design, it is developed in consideration of UX usability. 💖<br/><br/>
   I want to grow as a developer who can make a business impact ✨ <br/><br/>
 </p>
