@@ -37,5 +37,5 @@
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql"/>
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> -->
 </p>
