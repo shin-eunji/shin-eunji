@@ -3,7 +3,6 @@
 
 <p>
   <a href="https://ej-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:dmswlckato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dmswlckato@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
